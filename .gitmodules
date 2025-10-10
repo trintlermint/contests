@@ -1,0 +1,3 @@
+[submodule "icpc"]
+	path = icpc
+	url = git@gitlab.utwente.nl:s3688216/icpc.git
